@@ -1,0 +1,21 @@
+# Kernel module build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+.*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+
+# Userspace test binaries
+tests/basic_test
+tests/query_stats
+tests/stress
+
+# Editor/OS cruft
+*.swp
+.DS_Store
