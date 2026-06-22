@@ -1,0 +1,16 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+.*.cmd
+.tmp_versions/
+Module.markers
+modules.builtin
+modules.builtin.modinfo
+
+tests/pcie_edu_test
+
+.DS_Store
+

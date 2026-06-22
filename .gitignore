@@ -15,6 +15,10 @@ Module.symvers
 tests/basic_test
 tests/query_stats
 tests/stress
+**/tests/basic_test
+**/tests/query_stats
+**/tests/stress
+**/tests/pcie_edu_test
 
 # Editor/OS cruft
 *.swp
