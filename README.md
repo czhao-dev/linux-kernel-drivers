@@ -1,4 +1,4 @@
-# Linux Kernel Drivers
+# Linux Device Drivers
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Language: C](https://img.shields.io/badge/language-C-00599C.svg?logo=c&logoColor=white)](.)
